@@ -1,0 +1,1 @@
+Book list app which stores data in local storage using vanilla JS
